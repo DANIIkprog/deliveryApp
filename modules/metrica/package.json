@@ -1,0 +1,18 @@
+{
+  "name": "react-native-metrica",
+  "version": "0.0.0",
+  "description": "appmetrica for RN",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  },
+  "create-react-native-library": {
+    "type": "module-legacy",
+    "languages": "kotlin-swift",
+    "version": "0.37.1"
+  }
+}
